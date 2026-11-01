@@ -1,0 +1,10 @@
+{
+  "name": "mock-interview",
+  "version": "1.0.0",
+  "description": "Realistic mock job interview for any job title, with live research and a blunt scored report.",
+  "author": { "name": "Georges MOMO", "url": "https://github.com/georgesmomo" },
+  "homepage": "https://github.com/georgesmomo/mock-interview",
+  "repository": "https://github.com/georgesmomo/mock-interview",
+  "license": "MIT",
+  "keywords": ["mock-interview", "job-interview", "interview-preparation", "career", "agent-skills"]
+}
