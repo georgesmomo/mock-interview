@@ -114,20 +114,6 @@ skills/mock-interview/
     └── report-template.md         # exact report structure
 ```
 
-## 🇫🇷 En français
-
-Un entretien d'embauche simulé et réaliste, pour n'importe quel métier, avec Claude Code,
-Codex, Cursor, Gemini CLI ou Copilot. L'agent étudie l'offre et l'entreprise, joue un vrai
-recruteur, vous relance quand vous êtes flou, puis vous rend un rapport sans langue de bois :
-note sur 10, verdict, points forts, points faibles, vos deux pires réponses réécrites et
-trois priorités.
-
-```bash
-npx skills add georgesmomo/mock-interview
-```
-
-Puis écrivez simplement : « Prépare-moi à mon entretien de chef de projet chez Decathlon. »
-L'entretien se déroule en français.
 
 ## Contributing
 
