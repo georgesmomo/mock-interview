@@ -19,6 +19,9 @@ not a 2 if a follow-up recovered it; judge the best evidence and the overall pat
 2. Adjust it by at most ±0.5 for things that cut across competencies (below).
 3. Round **down** to one decimal (6.48 → 6.4). Never round up.
 
+Interview stopped early ("stop"): score only the lines you have evidence for, mark the
+others "not assessed", and spread their weight over the assessed lines. Say so in the report.
+
 Adjustments:
 - − answers consistently too long or too short, rambling, contradictions, bad attitude;
 - + clear structure, honest about limits, good questions at the end.
