@@ -120,6 +120,11 @@ skills/mock-interview/
 Issues and pull requests are welcome, especially new interview patterns for specific jobs.
 If it helped you land a job, a ⭐ helps others find it.
 
+## More from the author
+
+- [**devops-mock-interview**](https://github.com/georgesmomo/devops-mock-interview): the DevOps / SRE version, with live incidents.
+- [**tech-to-motion**](https://github.com/georgesmomo/tech-to-motion): turn your repo or architecture into a motion-design explainer video.
+
 ## License
 
 [MIT](./LICENSE) © Georges MOMO
