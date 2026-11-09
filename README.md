@@ -123,6 +123,7 @@ If it helped you land a job, a ⭐ helps others find it.
 ## More from the author
 
 - [**devops-mock-interview**](https://github.com/georgesmomo/devops-mock-interview): the DevOps / SRE version, with live incidents.
+- [**idea-to-motion**](https://github.com/georgesmomo/idea-to-motion): type an idea, get a motion-design video with music and voice-over.
 - [**tech-to-motion**](https://github.com/georgesmomo/tech-to-motion): turn your repo or architecture into a motion-design explainer video.
 
 ## License
